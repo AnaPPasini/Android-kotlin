@@ -21,5 +21,5 @@ fun main(args: Array<String>) {
     var populacaoBrasil = "211.000.000"
     println(populacaoBrasil)
 
-
+    var nome2 = "Ana"
 }
